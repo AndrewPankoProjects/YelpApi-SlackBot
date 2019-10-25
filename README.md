@@ -12,4 +12,7 @@ https://www.npmjs.com/package/yelp-fusion
 npm install slackbots
 https://www.npmjs.com/package/slackbots
 
+npm install sqlite3
+https://www.npmjs.com/package/sqlite3
+
 Commands for SlackBot can be found in the testlog.txt file
