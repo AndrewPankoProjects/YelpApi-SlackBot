@@ -12,4 +12,4 @@ https://www.npmjs.com/package/yelp-fusion
 npm install slackbots
 https://www.npmjs.com/package/slackbots
 
-Commands for SlackBot can be found in the test-log.txt file
+Commands for SlackBot can be found in the testlog.txt file
